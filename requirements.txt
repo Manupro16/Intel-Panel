@@ -1,4 +1,5 @@
 PyQt5~=5.15.10
-psutil
-websockets
-asyncio
+psutil~=6.0.0
+websockets~=12.0
+asyncio~=3.4.3
+aiohttp~=3.9.5
